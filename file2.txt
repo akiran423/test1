@@ -1,2 +1,4 @@
 file2 content
 changed from ie
+
+change from ie again
