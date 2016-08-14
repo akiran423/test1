@@ -1,5 +1,4 @@
 file2 content
 changed from ie
-
-change from ie again
+changed from chrome
 change from ie again
